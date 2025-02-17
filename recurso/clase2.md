@@ -1,4 +1,4 @@
---Tabla Cliente--
+--Tabla Proveedor--
 
 ![alt text](image-9.png)
 
